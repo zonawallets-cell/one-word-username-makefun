@@ -1,5 +1,10 @@
 # One Word, One Username, One Reward — make.fun entry
 
+[![make.fun · u-rusdyxbt-one-word-one-username-one-reward-1a191fae](https://make.fun/badge/u-rusdyxbt-one-word-one-username-one-reward-1a191fae.svg)](https://make.fun/bounty/u-rusdyxbt-one-word-one-username-one-reward-1a191fae?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-one-word-one-username-one-reward-1a191fae)
+[![rank](https://make.fun/badge/u-rusdyxbt-one-word-one-username-one-reward-1a191fae/zonawallets-cell/one-word-username-makefun/rank.svg)](https://make.fun/bounty/u-rusdyxbt-one-word-one-username-one-reward-1a191fae/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-one-word-one-username-one-reward-1a191fae)
+[![reward](https://make.fun/badge/u-rusdyxbt-one-word-one-username-one-reward-1a191fae/zonawallets-cell/one-word-username-makefun/reward.svg)](https://make.fun/bounty/u-rusdyxbt-one-word-one-username-one-reward-1a191fae?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-one-word-one-username-one-reward-1a191fae)
+
+
 [![make.fun](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/u-rusdyxbt-one-word-one-username-one-reward-1a191fae)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/)
